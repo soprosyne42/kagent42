@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+
+
+   - 👋 Hi, I’m @kagent42
+   - 😄 Pronouns: she/her
+   - 👀 I’m interested in Linux, open source, and Unix design principles, and cool math stuff like linear programming.
+   - 🌱 I’m currently learning functional programming- reading Structure and Interpretation of Computer Programs. Want to learn Haskell, Rust, and probably a few other languges.
+   - 💞️ I’m looking to collaborate on ... Don't know yet! Looking forward to finding out. :)
+
+
+
 <!--
 **kagent42/kagent42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
