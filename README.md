@@ -4,9 +4,8 @@
 
    - 👋 I’m @kagent42
    - 😄 Pronouns: she/her
-   - 👀 I’m interested in Linux, open source, and Unix design principles, and cool math stuff like linear programming.
-   - 🌱 I’m currently learning functional programming- reading Structure and Interpretation of Computer Programs. Want to learn Haskell, Rust, and probably a few other languges.
-   - 💞️ I’m looking to collaborate on ... Don't know yet! Looking forward to finding out. :)
+   - 👀 I’m interested in Linux, open source, functional programming, and cool math stuff like linear algebra.
+   - 🌱 I’m currently learning all sorts of stuff. I'm working through Structure and Interpretation of Computer Programs, Get Programming with Haskell, 0DE3.net. I love learning about pretty much anything, and I'm a leaf on the wind when it comes to where I go next
 
 
 
